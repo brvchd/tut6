@@ -1,0 +1,8 @@
+Path: /weatherforecast 
+QueryString: 
+Method: GET 
+Body Parameters: {
+	"idStudent": 1,
+	"firstname": "Jan",
+	"lastname": "Kowalski"
+}
